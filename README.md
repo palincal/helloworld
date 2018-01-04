@@ -1,2 +1,2 @@
 # helloworld
-Trial repositary
+Trial repository
